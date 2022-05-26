@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YellowGreg
 - 👀 I’m interested in Programming and automation & robotics
 - 🌱 I’m currently learning Automation & Robotics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on discord only https://discord.gg/a3rhzRBT
+- 💞️ I’m looking to collaborate on With Nobody
+- 📫 How to reach me on discord only YellowGreg#7993 or https://discord.gg/a3rhzRBT
 
 <!---
 YellowGreg/YellowGreg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
